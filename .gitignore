@@ -1,8 +1,10 @@
 # ignore files created by vimtex
 
-.aux
-.fdb_latexmk
-.fls
-.log
-.pdf
-.sycntex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.sycntex.gz
+*.synctex
+*.gz
